@@ -1,0 +1,22 @@
+{
+    "users": {
+        "Farooq": {
+            "salt": "XQwx1LQYn/lFvCSv5APA7w==",
+            "pass_hash": "b+iGqB9qrGudS3BsSLLSNF2h/jQllWK41yG3bpgZ6Kc=",
+            "entries": [
+                {
+                    "id": "870c33cc-296a-4ffb-a8a2-4d40b4538be6",
+                    "encrypted_text": "gAAAAABoIK3cFMbeLKklumPRYXqbAkD4HSyl4rJGD0wdgjoePg6WZems6i15S3COIRdGcw4wWbywlo00Hv5xaSeGTBabPLxsPOG9mN_IT9rUanSZM6fcrxS5NRnDA_h9bY7Vg3oHzaAN3mOMxK_90eXkr3EQ_muolT-vz9EIyd0QO9-TYawZCxlYN4-GYmiaJTPt3pZfoB4nu_D6MtA1okW0MpHj2iyS6A==",
+                    "salt": "rdCsP0tIjtG2OrndOLQhGA=="
+                },
+                {
+                    "id": "0636a291-4111-4f4f-90c3-ce423afae957",
+                    "encrypted_text": "gAAAAABoIK3lwyUQQPiTSYkENZKlophfhDLAyrKbyCczm961a7vxT6wCoVrhrL4mibrhEHeE4DIiGgtKVRIcj3oie4fpS5dULAOMce2UF1D8tze38ecyPo3rJHpLmpWkulu4cFpR-JbGCZznkZTvJw9joLgRuCHvryGx70DboMKZb0UY9Qhq_HaFoBik2WfVEMIQ5i8ySRysDQ0YXysKR5W6ySGyLcKawQ==",
+                    "salt": "adOcrgIv1ZPsK1kDbNu0/A=="
+                }
+            ],
+            "failed_attempts": 0,
+            "lockout_until": null
+        }
+    }
+}
